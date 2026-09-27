@@ -7,12 +7,12 @@ public class Character
     protected int basePower;
     protected string address;
 
-    // Konstruktor default
+    
     public Character()
     {
     }
 
-    // Konstruktor berparameter
+    
     public Character(string characterID, string name, int basePower, string address)
     {
         this.characterID = characterID;
