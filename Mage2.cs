@@ -4,12 +4,12 @@ public class Mage : Character
 {
     protected int spellPower;
 
-    // Konstruktor default
+    
     public Mage() : base()
     {
     }
 
-    // Konstruktor berparameter
+    
     public Mage(
         int spellPower,
         string id,
