@@ -4,12 +4,12 @@ public class ArchMage : Mage
 {
     private int ancientKnowledge;
 
-    // Konstruktor default
+    
     public ArchMage() : base()
     {
     }
 
-    // Konstruktor berparameter
+   
     public ArchMage(
         int ancientKnowledge,
         int spellPower,
